@@ -1,1 +1,1 @@
-echo "<pre>".var_dump(scandir('/'))."</pre>";
+echo file_get_contents("/get_flag");
